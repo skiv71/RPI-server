@@ -1,0 +1,14 @@
+{
+  "name": "RPI-server",
+  "version": "1.0.0",
+  "description": "RPI server for remote connection of serial devices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
